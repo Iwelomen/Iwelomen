@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Iwelomen/README.md
+### Iwelomen/README.md
 
 - 👋 Hi, my name is Godspower Obami 
 - 🧑‍💻 I’m I’m a Mobile engineer
@@ -10,5 +7,4 @@
 - 💬 Ask me about Flutter, iOS and ASP.NET
 - 📫 How to reach me via:
 [Email](godspowerobami@gmail.com) 
-[LinkedIn](https://www.linkedin.com/in/godspowerobami) 
--->
+[LinkedIn](https://www.linkedin.com/in/godspowerobami)
