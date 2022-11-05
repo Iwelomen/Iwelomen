@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Iwelomen/Iwelomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Iwelomen/README.md
 
 - 👋 Hi, my name is Godspower Obami 
 - 🧑‍💻 I’m I’m a Mobile engineer
