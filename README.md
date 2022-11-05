@@ -4,5 +4,5 @@
  🤔 I’m looking for help with ...
  💬 Ask me about Flutter, iOS and ASP.NET
  📫 How to reach me via:
-[Email](godspowerobami@gmail.com) and 
+[Email](godspowerobami@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/godspowerobami)
