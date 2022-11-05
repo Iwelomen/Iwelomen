@@ -3,6 +3,5 @@
  - 👯 I’m looking to collaborate on awesome Flutter and swift projects
  - 💬 Ask me about Flutter, iOS and ASP.NET
  - 📫 How to reach me via:
- Email: godspowerobami@gmail.com
- 
+ Email: godspowerobami@gmail.com or 
 [LinkedIn](https://www.linkedin.com/in/godspowerobami)
